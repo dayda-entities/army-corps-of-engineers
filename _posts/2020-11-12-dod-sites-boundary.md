@@ -1,18 +1,20 @@
 ---
 title: DoD Sites - Boundary
-created: '2020-11-12T12:17:50.583191'
-modified: '2020-11-12T12:17:50.583201'
+created: '2020-11-12T12:17:53.132026'
+modified: '2020-11-12T12:17:53.132036'
 state: active
 type: dataset
 tags:
-  - Boundaries
-  - Geospatial
-  - Military
+  - Dod
+  - Dsl
+  - Installation
+  - Range
+  - Training
 groups: []
 csv_url: >-
-  https://geospatial-usace.opendata.arcgis.com/datasets/fc0f38c5a19a46dbacd92f2fb823ef8c_1.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D
+  https://geospatial-usace.opendata.arcgis.com/datasets/85e5114c86fc4e5ba2d1e29ca213b834_1.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D
 json_url: ''
 layout: post
 
 ---
-The dataset depicts the authoritative locations of the most commonly known Department of Defense (DoD) sites, installations, ranges, and training areas in the United States and Territories. These sites encompass land which is federally owned or otherwise managed. This dataset was created from source data provided by the four Military Service Component headquarters and was compiled by the Defense Installation Spatial Data Infrastructure (DISDI) Program within the Office of the Deputy Under Secretary of Defense for Installations and Environment, Business Enterprise Integration Directorate. Sites were selected from the 2009 Base Structure Report (BSR), a summary of the DoD Real Property Inventory. This list does not necessarily represent a comprehensive collection of all Department of Defense facilities, and only those in the fifty United States and US Territories were considered for inclusion. For inventory purposes, installations are comprised of sites, where a site is defined as a specific geographic location of federally owned or managed land and is assigned to military installation. DoD installations are commonly referred to as a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction, custody, control of the DoD.
+This geospatial dataset contains the authoritative point locations and (where available) boundaries of Department of Defense sites, commonly referred to as installations, ranges, training areas, bases, forts, camps, armories, centers, etc. These installations are, in many cases, comprised of a number of subordinate sites. This list does not necessarily represent a comprehensive collection of all Department of Defense facilities, and only those reported in the 2015 Base Structure Report (BSR) were considered for inclusion. Points are placed either at or near the center of each site and do not reflect any particular landmark. Boundaries encompass federally owned or otherwise managed lands, as defined in the BSR. The point and boundary location datasets are intended for planning purposes only, and do not represent the legal or surveyed land parcel boundaries.
