@@ -11,7 +11,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'http://www.usace.army.mil/Portals/2/usace_logo.png'
+profile_pic: 'https://directory.dayda.org/assets/img/entities/army-corps-of-engineers.png'
 favicon: /assets/img/favicon.png
 url: >-
   http://army-corps-of-engineers-department-of-the-army-department-of-defense.dayda.org
